@@ -1,5 +1,6 @@
 content beagle  chrome/content/
 locale beagle en-US chrome/locale/en-US/
+locale beagle pt-BR chrome/locale/pt-BR/
 locale beagle sv-SE chrome/locale/sv-SE/
 locale beagle zh-CN chrome/locale/zh-CN/
 skin   beagle classic/1.0 chrome/skin/classic/

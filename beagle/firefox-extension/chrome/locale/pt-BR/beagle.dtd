@@ -1,0 +1,42 @@
+<!ENTITY beagle.context.search.link.label "Localizar referências para este link">
+<!ENTITY beagle.context.search.page.label "Localizar referências para esta página">
+
+<!ENTITY beagle.pref.label "Preferências do Beagle">
+<!ENTITY beagle.pref.security.active.label "Indexar páginas com conteúdo seguro">
+<!ENTITY beagle.pref.bookmark.active.label "Indexar marcadores quando a janela for fechada">
+<!ENTITY beagle.pref.prompt.keywords.active.label "Perguntar palavra-chave ao indexar sob damanda">
+<!ENTITY beagle.pref.default.action.label "Ação padrão">
+<!ENTITY beagle.pref.default.action.tooltip "O que fazer quando o URL não coincidir com qualquer regra">
+<!ENTITY beagle.pref.conflict.action.label "Ação no conflito">
+<!ENTITY beagle.pref.conflict.action.tooltip "O que fazer quando o URL coincidir tanto com regras na lista de incluir quanto na de excluir">
+<!ENTITY beagle.pref.action.index.label "Índice">
+<!ENTITY beagle.pref.action.noindex.label "Sem índice">
+<!ENTITY beagle.pref.groupbox.general.label "Geral">
+<!ENTITY beagle.pref.groupbox.include.label "Incluir">
+<!ENTITY beagle.pref.groupbox.exclude.label "Excluir">
+<!ENTITY beagle.pref.filter.name.label "Nome">
+<!ENTITY beagle.pref.filter.pattern.label "Padrão">
+<!ENTITY beagle.pref.filter.patterntype.label "TipoPadrão">
+<!ENTITY beagle.pref.filter.add.label "Adicionar">
+<!ENTITY beagle.pref.filter.remove.label "Remover">
+<!ENTITY beagle.pref.filter.add.dlg.title "Adicionar regra">
+<!ENTITY beagle.pref.help.label "Ajuda">
+<!ENTITY beagle.pref.save.label "Salvar">
+<!ENTITY beagle.pref.cancel.label "Cancelar">
+
+<!ENTITY beagle.run.index.this.label "Indexar esta página">
+<!ENTITY beagle.run.always.index.label "Sempre indexar este site">
+<!ENTITY beagle.run.never.index.label "Nunca indexar este site">
+<!ENTITY beagle.run.preferences.label "Preferências">
+<!ENTITY beagle.run.context.menu.label "Beagle">
+<!ENTITY beagle.run.index.link.label "Indexar este link">
+<!ENTITY beagle.run.index.image.label "Indexar esta imagem">
+<!ENTITY beagle.index.link.start.label "Iniciar">
+<!ENTITY beagle.index.link.stop.label "Parar">
+
+<!ENTITY beagle.bookmark.index.modified.label "Indexar os marcadores modificados">
+
+<!ENTITY beagle.sidebar.title "Barra lateral de histórico de pesquisa do Beagle">
+<!ENTITY beagle.sidebar.commandkey "B">
+<!ENTITY beagle.sidebar.modifierskey "shift accel">
+
