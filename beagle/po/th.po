@@ -196,7 +196,6 @@ msgstr "ว่าง"
 msgid "Contains {0} Item"
 msgid_plural "Contains {0} Items"
 msgstr[0] "มี {0} รายการ"
-msgstr[1] ""
 
 #. AddAction (new TileAction (Catalog.GetString ("Add to Library"), Gtk.Stock.Add, AddToLibrary));
 #: ../search/Tiles/Image.cs:39
@@ -248,7 +247,6 @@ msgstr "วันที่ส่ง:"
 msgid "{0} slide"
 msgid_plural "{0} slides"
 msgstr[0] "{0} ภาพนิ่ง"
-msgstr[1] ""
 
 #: ../search/Tiles/RSSFeed.cs:46
 msgid "Site:"
@@ -263,7 +261,6 @@ msgstr ""
 msgid "{0} page"
 msgid_plural "{0} pages"
 msgstr[0] "{0} หน้า"
-msgstr[1] ""
 
 #: ../search/Tiles/Tile.cs:179
 msgid "Open"
@@ -337,14 +334,12 @@ msgstr "พรุ่งนี้"
 msgid "{0} week ago"
 msgid_plural "{0} weeks ago"
 msgstr[0] "{0} สัปดาห์ที่ผ่านมา"
-msgstr[1] ""
 
 #: ../search/Tiles/Utils.cs:202
 #, csharp-format
 msgid "In {0} week"
 msgid_plural "In {0} weeks"
 msgstr[0] "ใน {0} สัปดาห์"
-msgstr[1] ""
 
 #. Let's say a year and a half to stop saying months
 #: ../search/Tiles/Utils.cs:204
@@ -352,28 +347,24 @@ msgstr[1] ""
 msgid "{0} month ago"
 msgid_plural "{0} months ago"
 msgstr[0] "{0} เดือนที่ผ่านมา"
-msgstr[1] ""
 
 #: ../search/Tiles/Utils.cs:206
 #, csharp-format
 msgid "In {0} month"
 msgid_plural "In {0} months"
 msgstr[0] "ใน {0} เดือน"
-msgstr[1] ""
 
 #: ../search/Tiles/Utils.cs:208
 #, csharp-format
 msgid "{0} year ago"
 msgid_plural "{0} years ago"
 msgstr[0] "{0} ปีที่ผ่านมา"
-msgstr[1] ""
 
 #: ../search/Tiles/Utils.cs:210
 #, csharp-format
 msgid "In {0} year"
 msgid_plural "In {0} years"
 msgstr[0] "ใน {0} ปี"
-msgstr[1] ""
 
 #. FIXME: We need filters for video in Beagle.
 #. They should land soon when entagged-sharp gets video support.
@@ -1067,14 +1058,12 @@ msgstr ""
 msgid "{0} hour"
 msgid_plural "{0} hours"
 msgstr[0] "{0} ชั่วโมง"
-msgstr[1] ""
 
 #: ../Util/StringFu.cs:144
 #, csharp-format
 msgid "{0} minute"
 msgid_plural "{0} minutes"
 msgstr[0] "{0} นาที"
-msgstr[1] ""
 
 #. Translators: {0} is a file size in bytes
 #: ../Util/StringFu.cs:160
