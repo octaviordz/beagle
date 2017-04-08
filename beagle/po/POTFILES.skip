@@ -1,5 +1,9 @@
+# List of source files that should *not* be translated.
+# Please keep this file in alphabetical order.
 beagled/DumpIndex.cs
 epiphany-extension/beagle.py
+firefox-extension/chrome/content/beagleOverlay.js
+firefox-extension/chrome/content/indexLink.js
 search/beagle-search.desktop.in
 tools/beagle-settings.desktop.in
 Util/DigikamTags.cs
